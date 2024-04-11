@@ -1,6 +1,6 @@
 # KGCV_Strawberry datasets
 ## Image data
-The image data can be downloaded from https://doi.org/10.5281/zenodo.10957605
+The image data can be downloaded from https://doi.org/10.5281/zenodo.10957909
 ### Object and phenology detection
 The folder "strawberry_img_random.zip" contains images and the corresponding JSON labels for object and phenological stages detection.
 
